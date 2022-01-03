@@ -11,6 +11,8 @@ A computer science sophomore at [National University of Singapore](https://www.n
   &nbsp;
   <a href="https://redux.js.org" title="Redux"><img src="svgs/redux.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://nodejs.org/en/" title="Node"><img src="svgs/nodejs.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://www.cypress.io/" title="Cypress"><img src="svgs/cypress.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://testing-library.com/" title="React Testing Library"><img src="svgs/rtl.svg" height="35" width="auto" /></a>
