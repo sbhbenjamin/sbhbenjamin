@@ -11,17 +11,20 @@ A computer science sophomore at [National University of Singapore](https://www.n
   &nbsp;
   <a href="https://redux.js.org" title="Redux"><img src="svgs/redux.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://nodejs.org/en/" title="Node.js"><img src="svgs/nodejs.svg" height="35" width="auto" /></a>
+  <a href="https://www.cypress.io/" title="Cypress"><img src="svgs/cypress.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://testing-library.com/" title="React Testing Library"><img src="svgs/rtl.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="svgs/mongodb.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.figma.com/" title="Figma"><img src="svgs/figma.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="svgs/mongodb.svg" height="35" width="auto" /></a>
-  &nbsp;
 </a>
 
 ## Learn more about me! :zap:
+
 <ul>
   <li>:bread: More about me: <a href="https://www.sbhbenjamin.works" title="portfolio">sbhbenjamin.works</a>
   </li>
