@@ -2,7 +2,7 @@
 
 A computer science sophomore at [National University of Singapore](https://www.nus.edu.sg/) passionate about designing and building applications that improve the lives of people! Some technologies I enjoy working include ReactJS, Redux, NodeJS, and Figma (UI/UX Design). I recently had the chance to work on [Gloo](https://gloo-fixr.herokuapp.com/), a marketplace for the sale of general utility services; and [sos.sg](https://github.com/sbhbenjamin/sos.sg-backend), a companion app for the Samaritans of Singapore's 24/7 hotline, aiming to make help for mental health more accessible. 
 
-I'm currently learning [TypeScript](https://www.typescriptlang.org/), [Blockchain technologies](https://ethereum.org/en/), and working on University of Helsinki's [Full Stack Open 2021](https://github.com/sbhbenjamin/fullstackopen-sbhbenjamin).
+I'm currently learning [TypeScript](https://www.typescriptlang.org/), [Blockchain technologies](https://github.com/sbhbenjamin/waveportal-frontend), and working on University of Helsinki's [Full Stack Open 2021](https://github.com/sbhbenjamin/fullstackopen-sbhbenjamin).
 
 ## Languages and Technologies 🌱
 
