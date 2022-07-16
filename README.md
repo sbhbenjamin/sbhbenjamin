@@ -2,8 +2,6 @@
 
 A computer science sophomore at [National University of Singapore](https://www.nus.edu.sg/) passionate about designing and building applications that improve the lives of people! Some technologies I enjoy working include NextJS, ReactJS, Redux, NodeJS, and Figma (UI/UX Design). Most recently, I had the chance to work on an [exhibition site](https://www.nusmarchgradshow.com/2022) for the NUS Masters of Architecture Graduation Show 2022.
 
-I'm currently learning [TypeScript](https://www.typescriptlang.org/), [Blockchain technologies](https://github.com/sbhbenjamin/waveportal-frontend), and working on University of Helsinki's [Full Stack Open 2021](https://github.com/sbhbenjamin/fullstackopen-sbhbenjamin).
-
 ## Languages and Technologies 🌱
 
 <p align='center'>
