@@ -28,7 +28,7 @@ A computer science sophomore at [National University of Singapore](https://www.n
 ## Learn more about me! :zap:
 
 <ul>
-  <li>:bread: More about me: <a href="https://www.sbhbenjamin.works" title="portfolio">sbhbenjamin.works</a>
+  <li>:bread: More about me: <a href="https://www.sbhbenjamin.com" title="portfolio">sbhbenjamin.com</a>
   </li>
   <li>:postbox: Connect with me: <a href="https://www.linkedin.com/in/sbhbenjamin" title="linkedin">LinkedIn</a>
   </li>
