@@ -17,6 +17,8 @@ A penultimate year computer science student at [National University of Singapore
   &nbsp;
   <a href="https://testing-library.com/" title="React Testing Library"><img src="svgs/rtl.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="svgs/postgresql.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://www.mongodb.com/" title="MongoDB"><img src="svgs/mongodb.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="svgs/typescript.svg" height="35" width="auto" /></a>
