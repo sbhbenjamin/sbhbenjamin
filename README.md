@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ben!
 
-A penultimate year computer science student at [National University of Singapore](https://www.nus.edu.sg/) passionate about designing and building applications that improve the lives of people! Some technologies I enjoy working include ReactJS, Redux, NodeJS, and Figma (UI/UX Design). I recently had the chance to work on [Gloo](https://gloo-fixr.herokuapp.com/), a marketplace for the sale of general utility services. I'm currently learning [TypeScript](https://www.typescriptlang.org/), [Blockchain technologies](https://ethereum.org/en/), and working on University of Helsinki's [Full Stack Open 2021](https://github.com/sbhbenjamin/fullstackopen-sbhbenjamin).
+A penultimate year computer science student at [National University of Singapore](https://www.nus.edu.sg/) passionate about designing and building applications that improve the lives of people! Some technologies I enjoy working include ReactJS, NodeJS, TypeScript and Figma (UI/UX Design). Most recently, I had the opportunity to work on an [exhibition site for the NUS Masters of Architecture Graduation Show 2022](https://www.nusmarchgradshow.com/2022)!
 
 ## Languages and Technologies 🌱
 
