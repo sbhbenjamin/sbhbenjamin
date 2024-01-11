@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ben!
 
-A penultimate year computer science student at [National University of Singapore](https://www.nus.edu.sg/) passionate about designing and building applications that improve the lives of people! Some technologies I enjoy working include ReactJS, NodeJS, TypeScript and Figma (UI/UX Design). Most recently, I had the opportunity to work on an [exhibition site for the NUS Masters of Architecture Graduation Show 2022](https://main.d2715w4mgmlpu.amplifyapp.com/2022)!
+A final year computer science student at [National University of Singapore](https://www.nus.edu.sg/) passionate about designing and building applications that improve the lives of people! Some technologies I enjoy working include ReactJS, NodeJS, TypeScript and Figma (UI/UX Design). Most recently, I had the opportunity to work on an [exhibition site for the NUS Masters of Architecture Graduation Show 2022](https://main.d2715w4mgmlpu.amplifyapp.com/2022)!
 
 ## Languages and Technologies 🌱
 
